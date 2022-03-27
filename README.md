@@ -26,7 +26,7 @@ The config file is called ``top2collection.json`` and needs to be at the same pl
 ```
 * **osupath:** The path to your osu! folder. Please note that we need to escape "\\" with another "\\" so we have "\\\\". **Also its important that we add the extra "\\\\" at the end!**
 * **mode:** Here we specify the gamemode. ``0 = osu!, 1 = Taiko, 2 = CtB, 3 = osu!mania`` We need to set a mode for every user we add
-* **apikey:** Insert your osu API key here. You get it from ``https://osu.ppy.sh/p/api`` note that we sont have a "/" at the end of the link. if you get redirected to the forum site after you logged in you have to paste that link again without the "/" at the end.
+* **apikey:** Insert your osu API key here. You get it from ``https://osu.ppy.sh/p/api`` note that we sont have a "/" at the end of the link. if you get redirected to the forum site after you logged in you have to paste that link again with the "/" at the end.
 * **targets:** Here we insert our users of wich we want the top plays from. As you can see in the Example you can use osu names and user id's. I would recommend user ID's. You get the user id from the profile link. eg. https://osu.ppy.sh/users/ **12540789**
 * **limits:** here we specify how deep we want to get the top plays. So if you only need the top 20 then inster 20 here. We also need to do this for every user we add.
 * **collectionnames:** The name of the Collections (ingame) We need to again do this for every user. Each name has to be unique. 
