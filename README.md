@@ -7,9 +7,10 @@ A tool (Rewritten from Python to c#) that fetches the top X from users and Creat
 - *OPTIONAL* Set as desktop Shortcut
 - PROFIT
 
-## Config File
 ### PLEASE NOTE 
 Peppy gives us an fully open and usally unlimited API to work with. So please dont fetch like 200 users every time you want to start up osu. Public API's are not cheap to maintain so use it with love and care!
+## Config File
+The config file is called ``top2collection.json`` and needs to be at the same place as the exe file. 
 ```
 [{
   "osupath": "G:\\osu!\\",
