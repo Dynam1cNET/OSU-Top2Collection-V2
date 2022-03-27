@@ -1,0 +1,11 @@
+{
+  "osupath": "G:\\osu!\\",
+  "mode": [ "0", "0", "0", "0", "0" ],
+  "apikey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "targets": [ "18634276", "9704883", "4382588", "4014879", "3390230" ],
+  "limits": [ "100", "100", "100", "100", "100" ],
+  "collectionnames": [ "###I Suck at Farming", "###Kalle Sucks at Farming", "###Waterbottle Sucks at Farming", "###Pants Sucks at Farming", "###Liz Sucks at Farming" ],
+  "backupCollectionsDB": true,
+  "startosuaftersync": false,
+  "generateMissingMaps": true
+}
