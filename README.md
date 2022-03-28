@@ -6,6 +6,9 @@ A tool (Rewritten from Python to c#) that fetches the top X from users and Creat
 - Edit "top2collection.json" (see below)
 - *OPTIONAL* Set as desktop Shortcut
 - PROFIT
+- you may need .NET 6 for Console Applications if you download release 1.0
+- you may need .NET 6 for Desktop Apps if you download 1.1
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime
 
 ### PLEASE NOTE 
 Peppy gives us an fully open and usally unlimited API to work with. So please dont fetch like 200 users every time you want to start up osu. Public API's are not cheap to maintain so use it with love and care!
