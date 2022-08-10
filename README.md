@@ -1,5 +1,5 @@
 # OSU-Top2Collection V2
-A tool (Rewritten from Python to c#) that fetches the top X from users and Creates a Collections with it. 
+A tool that fetches the top X from gamemode X from users and add's them to your Collection 
 
 ## USAGE:
 - Download ZIP from Releases
